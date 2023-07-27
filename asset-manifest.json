@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.937ce647.css",
-    "main.js": "/static/js/main.ee68f837.js",
+    "main.css": "/static/css/main.5ffab743.css",
+    "main.js": "/static/js/main.35c2a154.js",
     "static/js/857.6cff8885.chunk.js": "/static/js/857.6cff8885.chunk.js",
     "static/js/260.67bfe59d.chunk.js": "/static/js/260.67bfe59d.chunk.js",
     "static/media/Montserrat.ttf": "/static/media/Montserrat.3faa3eef13649db02044.ttf",
@@ -9,12 +9,12 @@
     "static/media/logo.svg": "/static/media/logo.b96407126507f8cd3915530ee1e4d17a.svg",
     "index.html": "/index.html",
     "static/media/coinbase.svg": "/static/media/coinbase.da2742715a6f9ede9f0508fd2a9cd82c.svg",
-    "main.937ce647.css.map": "/static/css/main.937ce647.css.map",
-    "main.ee68f837.js.map": "/static/js/main.ee68f837.js.map",
+    "main.5ffab743.css.map": "/static/css/main.5ffab743.css.map",
+    "main.35c2a154.js.map": "/static/js/main.35c2a154.js.map",
     "260.67bfe59d.chunk.js.map": "/static/js/260.67bfe59d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.937ce647.css",
-    "static/js/main.ee68f837.js"
+    "static/css/main.5ffab743.css",
+    "static/js/main.35c2a154.js"
   ]
 }
